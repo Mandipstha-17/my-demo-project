@@ -56,7 +56,7 @@
  
 
 // Unshift method
-// let nma=["Mandeep","Sandeep","Samyog"];
+// let nma=["Mandeep","Sandeep"];
 // nma.unshift("Aayush"); // yesley first ma element add garxa
 // console.log(nma);// add bayeko array show garxa
 

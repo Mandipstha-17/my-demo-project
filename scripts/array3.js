@@ -58,28 +58,28 @@
 // console.log(completed);
 // console.log(incomplete);
 
-let country=[
-    {
-        name:"Nepal",
-        code: "NP",
+// let country=[
+//     {
+//         name:"Nepal",
+//         code: "NP",
 
-    },
-    {
-        name:"india",
-        code: "in",
+//     },
+//     {
+//         name:"india",
+//         code: "in",
 
-    },
-    {
-        name:"usa",
-        code: "us",
+//     },
+//     {
+//         name:"usa",
+//         code: "us",
 
-    },
-    {
-        name:"australia",
-        code: "au",
+//     },
+//     {
+//         name:"australia",
+//         code: "au",
 
-    },
-];
+//     },
+// ];
 
 // function getCountryCode(countryName) {
 //     let countr=country.find(c=>c.name.toLowerCase()=== countryName.toLowerCase())
