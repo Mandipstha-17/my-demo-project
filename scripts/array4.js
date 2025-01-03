@@ -49,15 +49,15 @@
 
 // Assignment
 // Shift method
-// let nm = ["Mandeep", "Sandeep", "Bipin", "Nikita", "Muskan"];
+// let nm = ["Mandeep", "Sandeep", "Bipin", "Aayush", "Samyog"];
 // console.log(nm);
 // nm.shift(); // yesley first element remove garxa
 // console.log(nm); //  yesley shift bayepaxi ko array display garxa
  
 
 // Unshift method
-// let nma=["Mandeep","Sandeep","Muskan"];
-// nma.unshift("Nikita"); // yesley first ma element add garxa
+// let nma=["Mandeep","Sandeep","Samyog"];
+// nma.unshift("Aayush"); // yesley first ma element add garxa
 // console.log(nma);// add bayeko array show garxa
 
 

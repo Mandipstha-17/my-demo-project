@@ -5,7 +5,7 @@
 //         scholarship: false
 //     },
 //     {
-//         name: "Nikita",
+//         name: "Aayush",
 //         paidStatus: true,
 //         scholarship: true
 

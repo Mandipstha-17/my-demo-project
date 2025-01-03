@@ -9,7 +9,7 @@
 //     ],
 // },
 // {
-//     name:"Muskan",
+//     name:"Samyog",
 //     products:[
 //         { title:"jeans",price:"1000"},
 //         { title:"tshirt",price:"500"},
